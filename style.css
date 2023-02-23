@@ -1,0 +1,41 @@
+.apptitle {
+  text-align: center;
+  font-weight: bold;
+    font-size: 35px;
+}
+
+.container {
+  margin-top: 2%;
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px !important;
+  width: 98% !important;
+  margin-right: 20px !important;
+}
+
+.downloadOptions {
+  position: absolute;
+  right: 25px;
+}
+
+td {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 160px;
+  max-width: 160px;
+}
+
+.itemImg {
+  width: 250px;
+  height: 250px;
+}
+
+.tableTitle {
+  font-size: 25;
+  font-weight: bold;
+}
+
+#table{
+    margin-top: 20px;
+}
